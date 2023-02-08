@@ -1,0 +1,46 @@
+h1 {
+    Font-Family: Arial, Helvetica, sans-serif;;
+    font-size: 50px;
+    letter-spacing: 5px;
+    text-transform: uppercase;
+    font-weight: bolder;
+}
+
+h2 {
+    font-weight: bold;
+}
+
+span {
+    opacity: 0.8;
+}
+
+body {
+    Font-Family: 'Muli', Sans-Serif;
+    background-color: #efd7e1;
+    color: #3d3035;
+}
+
+.card-body {
+    background: #fc9bff;
+}
+
+.employee-card {
+    box-shadow: 5px 3px 9px 1px #8e41c6;
+}
+
+.card-header {
+    background: #89456c;
+}
+
+.card-body {
+    color: #5E5553;
+}
+
+a {
+    color: #46011c;
+}
+
+a:hover {
+    color: #ad40f1;
+    text-decoration: underline;
+}
